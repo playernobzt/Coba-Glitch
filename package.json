@@ -4,7 +4,6 @@
   "description": "",
   "main": "02.js",
   "scripts": {
-    "start": "node 02.js"
   },
   "keywords": [],
   "author": "",
@@ -13,7 +12,5 @@
     "eslint": "^8.49.0"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.4.1",
-    "qrcode-terminal": "^0.12.0",
   }
 }
