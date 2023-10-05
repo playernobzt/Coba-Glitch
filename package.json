@@ -1,10 +1,11 @@
 {
-  "name": "wa-otp",
+  "name": "coba-glitch",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "02.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node 02.js"
   },
   "keywords": [],
   "author": "",
